@@ -1,0 +1,39 @@
+深入理解android
+http://blog.csdn.net/column/details/innost.html
+
+老罗源码分析
+http://0xcc0xcd.com/p/index.php
+
+android开机过程(kernel logo, init logo, bootanimation)
+http://blog.csdn.net/luoshengyang/article/details/7691321
+
+Parcelable android中的序列化，可以序列化对象到内存、文件、网络传输。使用麻烦，效率高,主要用于序列化到内存，序列化到文件和网络操作过于复杂。
+Serializable java中的序列化，使用起来简单，开销很大需要大量IO， 用于序列化到文件和网络，操作简单。
+
+java各种内部类
+
+android UI大全
+https://github.com/wasabeef/awesome-android-ui 
+
+鼠标悬停控件获取焦点
+http://blog.csdn.net/dj0379/article/details/48339681
+
+源码国内镜像下载
+https://mirrors.tuna.tsinghua.edu.cn/help/AOSP/
+
+source code
+http://blog.csdn.net/Luoshengyang/ 
+http://blog.csdn.net/column/details/innost.html 
+http://blog.csdn.net/xuesen_lin
+
+
+从系统层面来说，需要有Linux内核基础，包括进程管理、内存管理、文件系统等，还需要掌握Android的HAL、C/C++ Runtime Framework、Java Runtime Framework和Davivk等。
+http://www.csdn.net/article/2014-08-15/2821226
+
+http://blog.csdn.net/whb20081815/article/details/75669925
+
+
+
+
+外挂
+http://blog.csdn.net/huang9012/article/details/21798607
